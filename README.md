@@ -1,5 +1,5 @@
 # firstjavaa
 
-TCP Clieent added
+TCP & Server java added
 
 All my java tasks and project 
